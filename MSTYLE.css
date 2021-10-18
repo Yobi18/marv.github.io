@@ -1,0 +1,127 @@
+@font-face {
+    font-family: norwester;
+    src: url(norwester.otf);
+}
+
+body {
+    background-color: #2E0101;
+}
+
+
+.MV {
+    font-family: 'Archivo Black', sans-serif;
+    color: wheat;
+    font-size: 90px;
+    margin-top: unset;
+    padding-bottom: 30px;
+    padding-left: 30px
+}
+
+.Home {
+    color: wheat;
+    font-size: 25px;
+    font-family: 'Alatsi', sans-serif;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+.My_Talents {
+    color: wheat;
+    font-size: 25px;
+    font-family: 'Alatsi', sans-serif;
+    padding-left: 30px;
+}
+
+.My_Hobbies {
+    color: wheat;
+    font-size: 25px;
+    font-family: 'Alatsi', sans-serif;
+    padding-left: 30px;
+}
+ .Add_Info {
+    color: wheat;
+    font-size: 25px;
+    font-family: 'Alatsi', sans-serif;
+    padding-left: 30px;
+ }
+.AH {
+    font-style: normal;
+    text-decoration: none;
+    color: wheat;
+}
+.AMT {
+     font-style: normal;
+     text-decoration: none;
+     color: wheat;
+ }
+.AMH {
+    font-style: normal;
+    text-decoration: none;
+    color: wheat;
+}
+.AADD {
+    font-style: normal;
+    text-decoration: none;
+    color: wheat;
+}
+
+.AH:hover {
+    font-style: normal;
+    text-decoration: none;
+    color: orange;
+ }
+.AMT:hover {
+    font-style: normal;
+    text-decoration: none;
+    color: orange;
+ }
+.AMH:hover {
+    font-style: normal;
+    text-decoration: none;
+    color: orange;
+}
+.AADD:hover {
+    font-style: normal;
+    text-decoration: none;
+    color: orange;
+}
+/* AB */
+.H1 {
+    color: wheat;
+    text-align: center;
+    font-family: 'Alatsi', sans-serif;
+}
+/* AMT */
+
+.H2 {
+    color: wheat;
+    text-align: center;
+    font-family: 'Alatsi', sans-serif;
+}
+/* AMH */
+
+.H3 {
+    color: wheat;
+    text-align: center;
+    font-family: 'Alatsi', sans-serif;
+}
+
+.AH3:hover {
+    font-style: normal;
+    text-decoration: underline;
+    color: orange;
+}
+
+.AH3 {
+    font-style: normal;
+    text-decoration: underline;
+    color: wheat;
+}
+
+/* AADD */
+
+.H4 {
+    color: wheat;
+    text-align: center;
+    font-family: 'Alatsi', sans-serif;
+}
